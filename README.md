@@ -14,6 +14,14 @@ JWT_MAX_AGE=2592000
 <br>
 You should run this command to install dependencies.
 ```bash
+npm install
+or
+yarn
+```
+<br>
+Then to have data in database we must migrate the tables and seed fake data run this commands
+
+```bash
 npm run migrate:up
 npm run migrate:latest
 npm run seed:run
@@ -21,14 +29,6 @@ or
 yarn migrate:up 
 yarn migrate:latest 
 yarn seed:run 
-```
-<br>
-Then to have data in database we must migrate the tables and seed fake data run this commands
-
-```bash
-npm install
-or
-yarn
 ```
 
 
