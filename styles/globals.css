@@ -1,0 +1,44 @@
+@tailwind components;
+@tailwind base;
+@tailwind utilities;
+
+.mantine-InputWrapper-error {
+	position: absolute;
+}
+.mantine-Input-wrapper {
+	margin-bottom: 5px;
+}
+.no-margin .mantine-Input-wrapper {
+	margin-bottom: 0 !important;
+}
+body {
+	overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #777777;
+	border-radius: 5px;
+	position: absolute;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
+.toasterCustom .mantine-Text-root {
+	display: flex;
+	align-items: center;
+	width: 270px;
+
+}

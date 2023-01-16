@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": [
+    "next-env.d.js",
+    "**/*.ts",
+    "**/*.tsx"
+, "store/models/count.js", "components/layout/Toolbar/ToolbarThemeSwitch.js", "components/layout/Toolbar/ToolbarSearch.js", "components/layout/Toolbar/ToolbarNotification.js", "components/layout/Toolbar/ToolbarMessage.js", "components/layout/Toolbar/ToolbarLogo.js", "components/layout/Toolbar/LanguagePicker.js", "components/utils/IconBtn.js", "components/utils/FlagIcon.js", "components/layout/Navbar/NavbarLinksGroup.js", "components/layout/Navbar/Navbar.js", "components/layout/Navbar/MainLink.js", "components/layout/Navbar/User/UserButton.js", "components/layout/Navbar/User/UserActionMenu.js", "components/Card.js", "components/GlobalStyles.js", "components/Grid.js", "pages/api/socket.js", "pages/api/todos.js", "pages/index.js", "pages/index_old.js", "pages/_document.js", "pages/_app.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
