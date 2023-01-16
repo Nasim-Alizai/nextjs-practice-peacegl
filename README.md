@@ -32,6 +32,22 @@ yarn migrate:latest
 yarn seed:run 
 ```
 
+Run the project with
+
+```bash
+npm run dev
+or
+yarn dev
+```
+and enjoy
+
+So the username and password are
+
+```bash
+username : admin@admin.com
+password : password
+```
+
 
 
 
