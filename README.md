@@ -9,11 +9,6 @@
 
 [Knex](https://knexjs.org/) is a SQL query builder that works with a variety of SQL databases including Postgres and MySQL. This example shows you how to use Knex with Next.js to connect and query a Postgres database. The same code can also connect to all other databases supported by Knex.
 
-## Deploy your own
-
-Once you have access to the environment variables you'll need, deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-knex&project-name=with-knex&repository-name=with-knex&env=PG_URI&envDescription=Required%20to%20connect%20the%20app%20with%20Postgres)
 
 ## How to use
 
