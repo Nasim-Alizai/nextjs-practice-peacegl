@@ -1,3 +1,8 @@
+## See me on
+click here
+[Nasim Alizai](https://nasim-alizai.github.io/) 
+
+
 ## Setup the project
 First of all you should create a database on Postgresql DBMS
 <br>
