@@ -19,7 +19,7 @@ or
 yarn
 ```
 <br>
-Then to have data in database we must migrate the tables and seed fake data run this commands
+Then to have data in database we must migrate the tables and seed fake data run this commands.
 
 ```bash
 npm run migrate:up
