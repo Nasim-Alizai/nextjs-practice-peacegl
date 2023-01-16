@@ -1,3 +1,10 @@
+## Setup the project
+
+
+
+
+
+
 ## Example app using Knex
 
 [Knex](https://knexjs.org/) is a SQL query builder that works with a variety of SQL databases including Postgres and MySQL. This example shows you how to use Knex with Next.js to connect and query a Postgres database. The same code can also connect to all other databases supported by Knex.
