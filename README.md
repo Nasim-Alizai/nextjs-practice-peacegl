@@ -6,7 +6,7 @@ click here
 ## Setup the project
 First of all you should create a database on Postgresql DBMS
 <br>
-Then you must create a file in the root level of the project by the name of `.env` and add this configurations.
+Then you must create a file in the root level of the project by the name of `.env.local` and add this configurations.
 
 ```bash
 PG_URI=postgres://username:password@localhost:5432/dbname
